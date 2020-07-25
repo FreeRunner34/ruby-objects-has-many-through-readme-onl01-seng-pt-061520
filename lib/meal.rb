@@ -28,6 +28,5 @@ rachel = Customer.new("Rachel", 27)
 dan = Waiter.new("Dan", 3)
  
 
- 
-Meal.all.length #=> 2
+Meal.all.length 
 end
